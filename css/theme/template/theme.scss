@@ -332,7 +332,7 @@ body {
 	background: rgba(0,0,0,0.2);
 }
 	.reveal .progress span {
-		background: $linkColor;
+		background: $backgroundColor;
 
 		-webkit-transition: width 800ms cubic-bezier(0.260, 0.860, 0.440, 0.985);
 		   -moz-transition: width 800ms cubic-bezier(0.260, 0.860, 0.440, 0.985);
@@ -345,5 +345,3 @@ body {
 .reveal .slide-number {
 	color: $linkColor;
 }
-
-
