@@ -17,7 +17,9 @@
 
 
 // Override theme settings (see ../template/settings.scss)
-$backgroundColor: #c40022;
+$rax-red: #c40022;
+$backgroundColor: $rax-red;
+
 
 $mainColor: #fff;
 $headingColor: #fff;
@@ -48,3 +50,9 @@ section.has-light-background {
 // Theme template ------------------------------
 @import "../template/theme";
 // ---------------------------------------------
+
+span.text-background {
+	background: rgba($rax-red, 0.8);
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}

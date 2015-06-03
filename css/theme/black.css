@@ -266,3 +266,8 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #42affa; }
+
+span.text-background {
+  background: rgba(196, 0, 34, 0.8);
+  padding-left: 0.5em;
+  padding-right: 0.5em; }
