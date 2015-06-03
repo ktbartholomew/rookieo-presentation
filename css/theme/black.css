@@ -269,5 +269,6 @@ body {
 
 span.text-background {
   background: rgba(196, 0, 34, 0.8);
+  line-height: 1.37;
   padding-left: 0.5em;
   padding-right: 0.5em; }
