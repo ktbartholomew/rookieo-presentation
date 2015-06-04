@@ -57,3 +57,19 @@ span.text-background {
 	padding-left: 0.5em;
 	padding-right: 0.5em;
 }
+
+
+.reveal .float-left {
+	display: inline-block;
+	margin-right: -0.25em;
+	vertical-align: middle;
+	width: 48%;
+
+}
+
+.reveal section img {
+	margin: 15px 0px;
+	background: transparent;
+	border: 0;
+	box-shadow: none;
+}
